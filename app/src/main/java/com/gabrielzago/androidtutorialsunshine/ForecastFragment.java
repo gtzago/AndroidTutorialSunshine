@@ -1,4 +1,3 @@
-/*
 package com.gabrielzago.androidtutorialsunshine;
 
 import android.os.AsyncTask;
@@ -21,16 +20,14 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-*/
 /**
  * A placeholder fragment containing a simple view.
- *//*
-
-public class MainActivityFragment extends Fragment {
+ */
+public class ForecastFragment extends Fragment {
 
     private ArrayAdapter<String> mForecastAdapter;
 
-    public MainActivityFragment() {
+    public ForecastFragment() {
     }
 
     @Override
@@ -137,4 +134,3 @@ public class MainActivityFragment extends Fragment {
         }
     }
 }
-*/

@@ -1,0 +1,1 @@
+http://api.openweathermap.org/data/2.5/forecast/daily?lat=-20.193&lon=-40.267&units=metric&mode=json&cnt=7&id=524901&APPID=0455aafad0caf0d67753d6ac3e464e2e
